@@ -606,6 +606,10 @@ input, select, textarea {
 		position: relative;
 	}
 
+		.icon.fa-cross:before {
+			content: "\f654";
+		}   
+
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
@@ -621,7 +625,7 @@ input, select, textarea {
 
 		.icon > .label {
 			display: none;
-		}
+		}<link rel="stylesheet" href="assets/fontawesome/css/all.min.css">   
 
 		.icon:before {
 			line-height: inherit;
