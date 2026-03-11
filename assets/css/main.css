@@ -608,6 +608,8 @@ input, select, textarea {
 
 		.icon.fa-cross:before {
 			content: "\f654";
+			font-family: 'Font Awesome 5 Free';
+			font-weight: 900; /* Required for solid icons */
 		}   
 
 		.icon:before {
