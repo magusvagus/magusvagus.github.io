@@ -612,14 +612,12 @@ input, select, textarea {
 			font-weight: 900;
 			font-size: 48px; /* or larger */
 			display: inline-block;
-			-webkit-font-smoothing: antialiased;
 		}
 
 		.icon.fa-cross:before {
 			content: "\f654";
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 900; /* Required for solid icons */
-    		vertical-align: -10px;
 		}   
 
 		.icon:before {
