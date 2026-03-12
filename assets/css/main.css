@@ -608,7 +608,7 @@ input, select, textarea {
 
 		.icon.chi-rho:before {
 			content: "\2627";
-			font-size: 48px;
+			font-size: 60px;
 			font-family: Arial, sans-serif; /* Ensure wide font support */
 		}
 
