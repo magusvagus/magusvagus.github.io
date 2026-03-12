@@ -179,7 +179,7 @@ input, select, textarea {
 		font-weight: 600;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
-		text-transform: uppercase;
+		/* text-transform: uppercase; */
 		letter-spacing: 0.2rem;
 	}
 
@@ -610,7 +610,7 @@ input, select, textarea {
 			content: "\2627";
 			font-family: "Font Awesome 6 Brands";
 			font-weight: 400; /* Brands don't use 900 */   
-			font-size: 48px !important;
+			font-size: 68px !important;
 			display: inline-block;
 			vertical-align: middle;
 		}
