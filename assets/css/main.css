@@ -606,6 +606,11 @@ input, select, textarea {
 		position: relative;
 	}
 
+		.icon.chi-rho:before {
+			content: "\2627";
+			font-family: Arial, sans-serif; /* Ensure wide font support */
+		}
+
 		.icon.fa-cross:before {
 			content: "\f654";
 			font-family: 'Font Awesome 5 Free';
