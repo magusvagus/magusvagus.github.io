@@ -608,8 +608,11 @@ input, select, textarea {
 
 		.icon.chi-rho:before {
 			content: "\2627";
-			font-size: 60px;
-			font-family: Arial, sans-serif; /* Ensure wide font support */
+			font-family: "Font Awesome 6 Free"; /* Or "sans-serif" */
+			font-weight: 900;
+			font-size: 48px; /* or larger */
+			display: inline-block;
+			-webkit-font-smoothing: antialiased;
 		}
 
 		.icon.fa-cross:before {
