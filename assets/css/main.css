@@ -610,8 +610,9 @@ input, select, textarea {
 			content: "\2627";
 			font-family: "Font Awesome 6 Free"; /* Or "sans-serif" */
 			font-weight: 900;
-			font-size: 48px; /* or larger */
+			font-size: 48px !important;
 			display: inline-block;
+			vertical-align: middle;
 		}
 
 		.icon.fa-cross:before {
